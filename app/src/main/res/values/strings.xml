@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_Project_3_A1</string>
+    <string name="view_famous_attractions_in_chicago">View famous attractions in Chicago</string>
+    <string name="show_attractions">Show Attractions</string>
+    <string name="view_popular_restaurants_in_chicago">View popular restaurants in Chicago</string>
+    <string name="show_restaurants">Show Restaurants</string>
 </resources>
